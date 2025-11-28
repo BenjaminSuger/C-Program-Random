@@ -79,3 +79,5 @@ Personal project for my own use
 **powerset_like** => an exercise like powerset from leetcode but not totally with a little twist
 
 **backtracking_parenthesis** => an exercise where I explore backtracking with parenthesis generation. Constraints are: should print only balanced solutions and with the minimum to remove (to avoid empty strings or too many solutions)
+
+**filtre.c** => read from stdin and replace the needle by '*'
